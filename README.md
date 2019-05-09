@@ -1,2 +1,5 @@
 # Pippo
-Android new database
+Android new NoSQL database.
+
+Preparing documentation.
+Coming soon...
